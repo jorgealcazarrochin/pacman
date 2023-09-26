@@ -17,4 +17,4 @@ Este es un proyecto de juego en el que controlamos múltiples Pac-Man. Cada Pac-
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
 
    ```bash
-   git clone https://github.com/tu-usuario/juego-de-pacman.git
+   git clone https://github.com/jorgealcazarrochin/pacman.git
